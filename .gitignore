@@ -1,3 +1,4 @@
 env
 .env
 llmops
+document_portal.egg-info
